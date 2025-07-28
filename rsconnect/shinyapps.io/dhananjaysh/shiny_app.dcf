@@ -1,0 +1,10 @@
+name: shiny_app
+title:
+username: dhananjaysh
+account: dhananjaysh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14996112
+bundleId: 10524235
+url: https://dhananjaysh.shinyapps.io/shiny_app/
+version: 1
